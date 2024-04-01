@@ -53,11 +53,11 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 
 
 
-![image1](https://github.com/gauravm1807/Pizza-Sales-Insights/assets/92421639/ca985c33-854f-4a28-b7b6-2f39e57deded)
+![image1](https://github.com/Mukulmalse/Pizza-Sales-Insights/blob/main/image1.png)
 
 
 
-![image2](https://github.com/gauravm1807/Pizza-Sales-Insights/assets/92421639/fe42dcac-cf49-437f-9aa4-b071027079d5)
+![image2](https://github.com/Mukulmalse/Pizza-Sales-Insights/blob/main/image2.png)
 
 
 ## Insights
